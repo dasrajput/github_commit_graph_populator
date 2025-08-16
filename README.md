@@ -6,7 +6,7 @@ This repository contains a Python script to generate a realistic-looking commit 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/dasrajput/justcommit.git
+    git clone https://github.com/dasrajput/github_commit_graph_populator
     cd justcommit
     ```
 2.  **Configure your Git username and email:**
